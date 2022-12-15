@@ -1,4 +1,4 @@
-#README:
+# README:
 
 The parameter I found essential to adjust is the hidden-size of lstm. I started with 256 3 layers, which is too small and insufficient to pass through the information. I trained the model for 50 epochs and achieved the Levenshtein distance of 14.
 
