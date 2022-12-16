@@ -1,4 +1,4 @@
-# 11-485-Deep-Learning-Projects
-11-485 Deep Learning course at CMU
+# Deep-Learning-Projects
+Deep Learning course at CMU
 
 Framework:PyTorch
